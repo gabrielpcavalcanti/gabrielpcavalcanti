@@ -17,9 +17,9 @@
 **Languages and Tools:** 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
+<code><img title="C" height="25" src="images/c.svg"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
 <code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
-<code><img title="C" height="25" src="images/c.svg"></code>
 <code><img title="HTML5" height="25" src="images/html5.svg"></code>
 <code><img title="CSS" height="25" src="images/css.svg"></code>
 <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
