@@ -18,6 +18,11 @@
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="sql"></code>
+<code><img title="PostgreSQL" height="25" src="images/postgresql.svg"></code>
+<code><img title="C" height="25" src="images/c.svg"></code>
+<code><img title="HTML5" height="25" src="images/html5.svg"></code>
+<code><img title="CSS" height="25" src="images/css.svg"></code>
+<code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="terminal"></code>
 
@@ -29,17 +34,3 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpcavalcanti" />
 </details>
 
-<!--
-**gabrielpcavalcanti/gabrielpcavalcanti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
