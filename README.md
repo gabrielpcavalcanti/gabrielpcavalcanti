@@ -32,5 +32,6 @@
   <br />
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpcavalcanti&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpcavalcanti" />
+  <img height="180em" src="https://streak-stats.demolab.com/?user=gabrielpcavalcanti" />
 </details>
 
