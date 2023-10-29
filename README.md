@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm GabrielCavalcanti</h1>
+<h1 align="center">Hi 👋, I'm Gabriel Cavalcanti</h1>
 <h3 align="center">A geophysicist who admires programming and data science</h3>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238)
