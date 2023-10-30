@@ -2,7 +2,18 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabriel.p.cavalcanti/) 
-<a href="https://www.linkedin.com/in/gabriel-cavalcanti-483373238" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+<p><a href="https://www.linkedin.com/in/gabriel-cavalcanti-483373238" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" /></a></p>
+
+<script>
+  const links = document.getElementsByTagName('a');
+  for (let link of links) {
+    if (link.host !== window.location.host) {
+      link.setAttribute('target', '_blank');
+      link.setAttribute('rel', 'noopener noreferrer');
+    }
+  }
+</script>
+
 
 
 ### Glad to see you here!  
