@@ -3,6 +3,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabriel.p.cavalcanti/)
 
+<strong> Visit my Potifolio </strong>
+
+<a href="https://gabrielpcavalcanti.github.io/" target="_blank" rel="External">Porifolio</a>
+
+<hr>
+
 ### Glad to see you here!   
 I am a geophysicist 🌎 who admires programming and data science! 🚀
 
@@ -12,11 +18,7 @@ I'm a very calm person and always try to find the best way to approach a situati
 
 Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just to say hello! I'd be happy to talk to you
 
-<strong> Visit my Potifolio </strong>
 
-<a href="https://gabrielpcavalcanti.github.io/" target="_blank" rel="External">Porifolio</a>
-
-<hr>
 
 - 🔭 I’m currently working on **Personal projects and improving myself**
 
