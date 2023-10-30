@@ -3,13 +3,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabriel.p.cavalcanti/)
 
-<strong> Visit my Potifolio </strong>
+### Glad to see you here!  
 
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielpcavalcanti.github.io/)
-
-<hr>
-
-### Glad to see you here!   
 I am a geophysicist 🌎 who admires programming and data science! 🚀
 
 I love geophysics and the way it sees the world. Combining that with what programming can offer us creates a very powerful way of solving problems.
@@ -17,8 +12,6 @@ I love geophysics and the way it sees the world. Combining that with what progra
 I'm a very calm person and always try to find the best way to approach a situation. I try my best to learn new skills in order to improve myself and be more efficient.
 
 Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just to say hello! I'd be happy to talk to you
-
-
 
 - 🔭 I’m currently working on **Personal projects and improving myself**
 
@@ -29,6 +22,12 @@ Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just t
 - 📫 How to reach me **gabrielcavalcanti18@outlook.com**
 
 - ⚡ Fun fact **I love jigsaw puzzles and video-games!**
+
+<strong> Visit my Potifolio </strong>
+
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielpcavalcanti.github.io/)
+
+<hr>
 
 **Languages and Tools:** 
 
