@@ -12,9 +12,9 @@ I'm a very calm person and always try to find the best way to approach a situati
 
 Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just to say hello! I'd be happy to talk to you
 
-** Visit my Potiifolio**
+<strong> Visit my Potiifolio </strong>
 
-<a href="https://gabrielpcavalcanti.github.io/" target="_blank" rel="External">Porifolio</a>
+<a href="https://gabrielpcavalcanti.github.io/">Porifolio</a>
 
 - 🔭 I’m currently working on **Personal projects and improving myself**
 
