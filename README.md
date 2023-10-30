@@ -3,6 +3,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabriel.p.cavalcanti/)
 
+<a href="https://linkedin.com/in/gabriel-cavalcanti-483373238" target="_blank">
+<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" style="display: block; width: 150px; height: 40px;">
+
 ### Glad to see you here!  
 
 I am a geophysicist 🌎 who admires programming and data science! 🚀
