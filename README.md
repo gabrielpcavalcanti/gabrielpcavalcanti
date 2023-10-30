@@ -14,7 +14,7 @@ Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just t
 
 ** Visit my Potiifolio**
 
-<a href="[https://www.youtube.com/](https://gabrielpcavalcanti.github.io/)" target="_blank" rel="External">Porifolio</a>
+<a href="https://gabrielpcavalcanti.github.io/" target="_blank" rel="External">Porifolio</a>
 
 - 🔭 I’m currently working on **Personal projects and improving myself**
 
