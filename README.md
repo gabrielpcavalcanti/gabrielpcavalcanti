@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabriel Cavalcanti</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238){:target="_blank"}
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabriel.p.cavalcanti/){:target="_blank"}
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/gabriel-cavalcanti-483373238) {:target="_blank"}
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/gabriel.p.cavalcanti/) {:target="_blank"}
 
 ### Glad to see you here!  
 
@@ -25,7 +25,7 @@ Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just t
 
 <h3> <strong> Visit my Potifolio </strong> </h3>
 
-[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielpcavalcanti.github.io/){:target="_blank"}
+[![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielpcavalcanti.github.io/) {:target="_blank"}
 
 <hr>
 
