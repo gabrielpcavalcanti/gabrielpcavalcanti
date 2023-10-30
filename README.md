@@ -23,7 +23,7 @@ Feel free to connect with me @gabriel.p.cavalcanti for all things tech or just t
 
 - ⚡ Fun fact **I love jigsaw puzzles and video-games!**
 
-<strong> Visit my Potifolio </strong>
+<h3> <strong> Visit my Potifolio </strong> </h3>
 
 [![Website Badge](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://gabrielpcavalcanti.github.io/)
 
